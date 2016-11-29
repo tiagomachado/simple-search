@@ -1,0 +1,19 @@
+{
+    "name": "tiago/search-teste",
+    "authors": [
+        {
+            "name": "tiagomachado",
+            "email": "tmachadoacm@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+
+    },
+    "require": {
+        "illuminate/database": "^5.3",
+        "illuminate/pagination": "^5.3"
+    }
+}
